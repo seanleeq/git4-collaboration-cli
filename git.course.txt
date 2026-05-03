@@ -1,6 +1,17 @@
 GIT4 - 협업
-https://youtu.be/GUdOcm7yqws?si=jcD3NdrTAJt22c3N
+https://www.youtube.com/playlist?list=PLuHgQVnccGMA4LgLoH07e7uEbRbi92Dd2
+https://opentutorials.org/module/3967
 
 Visual Studio Code - Git 으로 협업 하기
 
 https://www.youtube.com/playlist?list=PLuHgQVnccGMD-XRW1zlqC7U2uCzOxyT8u
+
+github.com - pull request 
+https://www.youtube.com/playlist?list=PLuHgQVnccGMBXv1OKe3Hn3Jq6F735-uWm
+
+Visual Studio code로 다루는 git
+https://www.youtube.com/playlist?list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm
+
+
+Github.com
+https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7
