@@ -1,2 +1,6 @@
 GIT4 - 협업
 https://youtu.be/GUdOcm7yqws?si=jcD3NdrTAJt22c3N
+
+Visual Studio Code - Git 으로 협업 하기
+
+https://www.youtube.com/playlist?list=PLuHgQVnccGMD-XRW1zlqC7U2uCzOxyT8u
